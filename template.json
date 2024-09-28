@@ -1,10 +1,10 @@
 {
-	"title": "Title which will fit on all pages",
-	"description": "Description which will fit on all pages",
+	"title": "\"Honey Look\" - Сонцезахисні окуляри, кепки, шарфи та аксесуари",
+	"description": "Honey Look - магазин сонцезахисних окулярів, кепок, шарфів та стильних аксесуарів у Кам'янці-Подільському. У нас знайдете модні аксесуари для жінок та чоловіків: сонцезахисні окуляри, стильні кепки, шарфи та багато іншого. Щоденна відправка замовлень по всій Україні, офіційний магазин на проспекті Грушевського, 21А. Завітайте до нас та оберіть стильний аксесуар, який підкреслить вашу індивідуальність.",
 	"keywords": "waw, web art work, server render, template",
 	"prefix": "/wjst-default",
 	"favicon": "img/favicon.ico",
-	"image": "https://webartwork.github.io/wjst-default/img/avatar.png",
+	"image": "https://honeylook.webart.work/img/logo.png",
 	"author": "Honchar Denys",
 	"scss": "scss/index.scss",
 	"items": [
